@@ -1,7 +1,15 @@
-.terraform/
+# Terraform
 *.tfstate
 *.tfstate.*
+.terraform/
 .terraform.lock.hcl
-crash.log
+
+# Sensitive files
 *.pem
-.vscode/
+*.key
+
+# Logs
+*.log
+
+# OS
+.DS_Store
