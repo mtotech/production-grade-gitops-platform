@@ -1,0 +1,6 @@
+# Gunicorn is a production-grade WSGI server
+#used to serve Flask applications reliably.
+
+Flask==3.1.0
+gunicorn==23.0.0
+pytest==8.4.0
