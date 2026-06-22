@@ -1,0 +1,13 @@
+# this is helm metadata file
+
+apiVersion: v2
+
+name: gitops-platform
+
+description: Production Grade GitOps Platform
+
+type: application
+
+version: 1.0.0
+
+appVersion: "1.0.0"

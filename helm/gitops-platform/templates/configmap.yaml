@@ -1,0 +1,11 @@
+# for environment variable
+apiVersion: v1
+
+kind: ConfigMap
+
+metadata:
+  name: {{ .Release.Name }}-config
+
+data:
+  APP_NAME: {{ .Values.app.name | quote }}
+  APP_VERSION: {{ .Values.app.version | quote }}
