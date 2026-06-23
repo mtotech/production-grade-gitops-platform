@@ -3,7 +3,7 @@
 replicaCount: 2
 
 image:
-  tag: staging
+  tag: "v1.0.1"
 
 resources:
 

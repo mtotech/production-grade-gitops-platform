@@ -2,8 +2,8 @@ replicaCount: 2
 
 image:
   repository: chauhanneru877/gitops-platform
-  tag: latest
-  pullPolicy: Always
+  tag: "v1.0.1"
+  pullPolicy: IfNotPresent
 
 service:
   type: ClusterIP
