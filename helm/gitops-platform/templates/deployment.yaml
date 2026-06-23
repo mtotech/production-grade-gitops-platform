@@ -4,6 +4,9 @@ kind: Deployment
 
 metadata:
   name: {{ .Release.Name }}
+  labels:
+    app: gitops-platform
+    environment: {{ .Values.app.environment }}
 
 spec:
 
@@ -28,6 +31,7 @@ spec:
 
       labels:
         app: {{ .Release.Name }}
+        environment: {{ .Values.app.environment }}
 
     spec:
 

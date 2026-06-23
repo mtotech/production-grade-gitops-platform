@@ -17,3 +17,6 @@ resources:
 
 ingress:
   enabled: true
+
+app:
+  environment: prod
