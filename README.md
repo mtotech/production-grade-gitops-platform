@@ -213,19 +213,6 @@ Destroy Infrastructure
 Refer:
 docs/DESTROY-GUIDE.md
 ________________________________________
-#### Resume Highlights
-•	Built Production Grade GitOps Platform on AWS EKS
-
-•	Implemented Infrastructure as Code using Terraform
-
-•	Designed GitOps workflow using ArgoCD
-
-•	Implemented Multi Environment Kubernetes Deployments
-
-•	Automated CI/CD using GitHub Actions
-
-•	Implemented Kubernetes Monitoring using Prometheus
-________________________________________
 ### Author
 Neeraj Kumar
 
