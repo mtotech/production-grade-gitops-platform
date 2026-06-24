@@ -7,28 +7,37 @@ ________________________________________
 ________________________________________
 #### Architecture
 Developer
+
      │
     ▼
+    
 GitHub Repository
 
     │
     ▼
+    
 GitHub Actions
 
     │
     ▼
+    
 DockerHub
+
      │
     ▼
 GitOps Repository
 
     │
     ▼
+
 ArgoCD
+
     │
     ▼
 Amazon EKS
+
     │
+    
  ┌──┼─────────────┐
  ▼  ▼             ▼
 
