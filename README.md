@@ -39,9 +39,10 @@ Amazon EKS
     │
     
  ┌──┼─────────────┐
+ 
  ▼  ▼             ▼
 
-Dev  Staging     Prod
+Dev    Staging      Prod
 ________________________________________
 ### Technology Stack
 #### Cloud
