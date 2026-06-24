@@ -177,17 +177,33 @@ Implemented Components:
 ________________________________________
 #### Screenshots
 ArgoCD Applications
-Add Screenshot:
-screenshots/argocd-applications.png
+
+![](screenshots/phase7-argocd.png)
+
 EKS Nodes
-Add Screenshot:
-screenshots/eks-nodes.png
+
+![](screenshots/eks-nodes.png)
+
 Monitoring Stack
-Add Screenshot:
-screenshots/monitoring-stack.png
-Multi Environment Deployment
-Add Screenshot:
-screenshots/multi-environment-pods.png
+
+![](screenshots/phase9-monitoring.png)
+
+Helm-lint
+
+![](screenshots/helm-lint.png)
+
+GitHub_Pipeline
+
+![](screenshots/github_pipeline2.png)
+
+DockerHub_repository
+
+![](screenshots/dockerhub-repository.png)
+
+repository-structure-gitops
+
+![](screenshots/repository-structure-gitops.png)
+
 ________________________________________
 Deployment
 Refer:
